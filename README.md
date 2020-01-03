@@ -1,0 +1,1 @@
+GSR_BLE_EMBD
